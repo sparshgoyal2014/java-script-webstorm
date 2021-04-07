@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b768feae-1c79-4fb0-b2cb-ac0965026d3f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1i6lWtCPzaXKTdBAl7UTXsf0Zcp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Node.js.testVariableHositing.js">
+    <configuration name="hoisting.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/hoisting.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="testFunctionDeclarationShadowing.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/testFunctionDeclarationShadowing.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="testMemberAccessOperator.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/testMemberAccessOperator.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="testSelfReference.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/testSelfReference.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="testVariableHositing.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/testVariableHositing.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.testVariableHositing.js" />
+        <item itemvalue="Node.js.testMemberAccessOperator.js" />
+        <item itemvalue="Node.js.testSelfReference.js" />
+        <item itemvalue="Node.js.testFunctionDeclarationShadowing.js" />
+        <item itemvalue="Node.js.hoisting.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b768feae-1c79-4fb0-b2cb-ac0965026d3f" name="Default Changelist" comment="" />
+      <created>1601235956219</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601235956219</updated>
+      <workItem from="1601235957460" duration="1594000" />
+      <workItem from="1601237808376" duration="609000" />
+      <workItem from="1601304103059" duration="7887000" />
+      <workItem from="1601405880352" duration="366000" />
+      <workItem from="1601411724520" duration="643000" />
+      <workItem from="1601487149085" duration="6311000" />
+      <workItem from="1601646253007" duration="10029000" />
+      <workItem from="1601915562466" duration="8157000" />
+      <workItem from="1602053218380" duration="1313000" />
+      <workItem from="1602171704978" duration="4558000" />
+      <workItem from="1602708665285" duration="708000" />
+      <workItem from="1602745241383" duration="5712000" />
+      <workItem from="1604174292533" duration="8000" />
+      <workItem from="1604559500758" duration="4614000" />
+      <workItem from="1607962597577" duration="1491000" />
+      <workItem from="1608539607109" duration="43000" />
+      <workItem from="1611672449036" duration="1896000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1899" height="267" key="GridCell.Tab.0.bottom" timestamp="1611675100265">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state width="1899" height="267" key="GridCell.Tab.0.bottom/0.0.1920.1048@0.0.1920.1048" timestamp="1611675100265" />
+    <state width="1899" height="267" key="GridCell.Tab.0.center" timestamp="1611675100265">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state width="1899" height="267" key="GridCell.Tab.0.center/0.0.1920.1048@0.0.1920.1048" timestamp="1611675100265" />
+    <state width="1899" height="267" key="GridCell.Tab.0.left" timestamp="1611675100265">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state width="1899" height="267" key="GridCell.Tab.0.left/0.0.1920.1048@0.0.1920.1048" timestamp="1611675100265" />
+    <state width="1899" height="267" key="GridCell.Tab.0.right" timestamp="1611675100265">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state width="1899" height="267" key="GridCell.Tab.0.right/0.0.1920.1048@0.0.1920.1048" timestamp="1611675100265" />
+    <state x="92" y="92" width="1736" height="864" key="dock-window-1" timestamp="1604560560695">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state x="92" y="92" width="1736" height="864" key="dock-window-1/0.0.1920.1048@0.0.1920.1048" timestamp="1604560560695" />
+    <state x="92" y="92" width="1736" height="864" key="dock-window-2" timestamp="1604560560695">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state x="92" y="92" width="1736" height="864" key="dock-window-2/0.0.1920.1048@0.0.1920.1048" timestamp="1604560560695" />
+    <state x="616" y="242" key="run.anything.popup" timestamp="1604561790394">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state x="616" y="242" key="run.anything.popup/0.0.1920.1048@0.0.1920.1048" timestamp="1604561790394" />
+    <state x="1103" y="232" width="672" height="678" key="search.everywhere.popup" timestamp="1604559578332">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state x="1103" y="232" width="672" height="678" key="search.everywhere.popup/0.0.1920.1048@0.0.1920.1048" timestamp="1604559578332" />
+  </component>
+</project>

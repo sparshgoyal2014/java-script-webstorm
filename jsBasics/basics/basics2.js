@@ -1,0 +1,1 @@
+console.log('This is basics 2 js file');
